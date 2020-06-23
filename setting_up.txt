@@ -1,0 +1,7 @@
+$ mkdir todo-api
+$ cd todo-api
+$ virtualenv flask
+New python executable in flask/bin/python
+Installing setuptools............................done.
+Installing pip...................done.
+$ flask/bin/pip install flask
